@@ -63,6 +63,9 @@ O programa utiliza comunicação em rede para conectar os dois jogadores. Um jog
 
 ## Exemplo de Execução
 
+**Demonstração em vídeo:**
+<a href="https://youtu.be/XLPcaX2UlVs" title="https://youtu.be/XLPcaX2UlVs">
+
 **Interface do Tabuleiro:**
 ```
 . . . . . . .
