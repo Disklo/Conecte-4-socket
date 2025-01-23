@@ -2,7 +2,7 @@
 
 Conecte 4 é uma implementação em Python do popular jogo de tabuleiro "Conecte 4", feita como uma atividade da disciplina de Redes De Computadores da Universidade Federal Fluminense, ministrada pelo docente Flavio Luiz Seixas. Este programa permite dois jogadores competirem online em um tabuleiro virtual utilizando comunicação por socket.
 
-![gamedemo](https://github.com/user-attachments/assets/39c370c5-5b8f-45a2-b022-3574599a015d)
+![gamedemo](https://github.com/user-attachments/assets/cb774f5d-4769-4340-b5e0-0a4399594bbe)
 
 ## Descrição Geral
 
