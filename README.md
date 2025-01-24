@@ -84,7 +84,7 @@ X O O X . . .
 - "Aguardando o oponente..." informa que é a vez do adversário.
 - Mensagens de vitória, derrota ou empate aparecem automaticamente ao final do jogo.
 
-## Autor
+## Autoria
 Criado por:
 
 <table>
