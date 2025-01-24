@@ -28,32 +28,36 @@ O programa utiliza comunicação em rede para conectar os dois jogadores. Um jog
    git clone https://github.com/Disklo/conecte-4-socket
    ```
 
-2. Navegue até o diretório do projeto:
+3. Certifique-se de que o Python 3.x está instalado na sua máquina.
+
+## Como Executar
+1. Navegue até o diretório do projeto:
    ```bash
    cd conecte4
    ```
 
-3. Certifique-se de que o Python 3.x está instalado na sua máquina.
-
-## Como Executar
-
-### 1. Jogador Host (Anfitrião):
+### 2. Jogador Host (Anfitrião):
 1. Execute o programa:
    ```bash
    python conecte4.py
    ```
 
-2. Escolha a opção `h` (hospedar) quando solicitado.
-3. O programa exibirá o endereço IP que o outro jogador deve usar para se conectar.
+3. Escolha a opção `h` (hospedar) quando solicitado.
+4. O programa exibirá o endereço IP que o outro jogador deve usar para se conectar.
 
 ### 2. Jogador Cliente:
-1. Execute o programa:
+1. Navegue até o diretório do projeto:
+   ```bash
+   cd conecte4
+   ```
+
+2. Execute o programa:
    ```bash
    python conecte4.py
    ```
 
-2. Escolha a opção `c` (conectar) quando solicitado.
-3. Insira o endereço IP fornecido pelo anfitrião.
+3. Escolha a opção `c` (conectar) quando solicitado.
+4. Insira o endereço IP fornecido pelo anfitrião.
 
 ### 3. Jogando o Jogo:
 - Após ambos os jogadores se conectarem, o jogo começa automaticamente.
