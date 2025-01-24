@@ -84,7 +84,7 @@ Criado por:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Disklo" title="Perfil de Disklo">
+      <a href="https://github.com/Disklo" title="Rafael Lucio">
         <img src="https://avatars.githubusercontent.com/u/24628410?v=4" width="100px;" alt="Foto de Disklo"/><br>
         <sub>
           <b>Disklo (Rafael Lucio)</b>
@@ -95,7 +95,15 @@ Criado por:
       <a href="https://github.com/caioffnascimento" title="Caio Nascimento">
         <img src="https://avatars.githubusercontent.com/u/112733099?v=4" width="100px;" alt="Foto de Caio"/><br>
         <sub>
-          <b>Caioffnascimento</b>
+          <b>Caioffnascimento (Caio Nascimento)</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Marcovisc" title="Marcos Junior">
+        <img src="https://avatars.githubusercontent.com/u/35565911?v=4" width="100px;" alt="Foto de Marcos Junior"/><br>
+        <sub>
+          <b>Marcovisc (Marcos Junior)</b>
         </sub>
       </a>
     </td>
