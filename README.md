@@ -31,7 +31,7 @@ O programa utiliza comunicação em rede para conectar os dois jogadores. Um jog
 3. Certifique-se de que o Python 3.x está instalado na sua máquina.
 
 ## Como Executar
-### 2. Jogador Host (Anfitrião):
+### 1. Jogador Host (Anfitrião):
 1. Navegue até o diretório do projeto.
 2. Execute o programa:
    ```bash
